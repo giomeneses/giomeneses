@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning more about **Ansible, Python, LaTeX**
 
-- 📫 How to reach me **giomeneses42@gmail.com**
+- 📫 How to reach me **gio@meneses.dev**
 
 - 📄 Know about my experiences [https://github.com/giomeneses/resume/blob/main/GioMeneses.pdf](https://github.com/giomeneses/resume/blob/main/GioMeneses.pdf)
 
