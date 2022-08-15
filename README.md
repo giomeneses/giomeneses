@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Civis Analytics**
 
-- 🌱 I’m currently learning more about **Ansible, Python, LaTeX**
+- 🌱 I’m currently learning more about **Ansible, Python, LaTeX, Lua**
 
 - 📫 How to reach me **gio@meneses.dev**
 
