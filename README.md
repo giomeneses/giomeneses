@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gio Meneses</h1>
-<h3 align="center">IT Specialist with penchant to tinker</h3>
+<h3 align="center">IT Manager with penchant to tinker</h3>
 
 - 🌱 I’m currently learning more about **Ansible, Python, LaTeX, Lua**
 
